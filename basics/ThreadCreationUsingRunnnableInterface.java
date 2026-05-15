@@ -1,4 +1,4 @@
-package practice_codes;
+package basics;
 
 class Test implements Runnable {
 
